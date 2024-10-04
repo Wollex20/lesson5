@@ -77,3 +77,56 @@ h2{
 	letter-spacing: 0.4px;
 	line-height: 53px;
 }
+footer ul a{
+	color: #F2F2F2;
+	text-decoration: none;
+}
+
+footer div{
+	color: #F2F2F2;
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 17px;
+}
+
+footer a{
+	color: #F8F8F8;
+	font-size: 13px;
+	letter-spacing: 0.13px;
+	line-height: 17px;
+}
+
+footer ol{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 19px;
+	letter-spacing: 0.19px;
+	line-height: 17px;
+}
+
+footer ol a{
+	font-size: 13px;
+	letter-spacing: 0.13px;
+	line-height: 17px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+ol{
+	list-style-type: none;
+}
+
+.divlogo{
+	width: 43.95px;
+	height: 43.95px;
+}
+
+article{
+	border: 10px solid #000000;
+	margin-top: 100px;
+	margin-left: 10px;
+	margin-bottom: 100px;
+	margin-right: 10px;
+	padding: 50px;
+	text-align: left;
+}
