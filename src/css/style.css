@@ -133,11 +133,23 @@ article{
 
 header li,nav{
 	display: inline-block;
+	margin-right: 50px;
 }
 section article{
 	display: inline-block;
+
 }
 
 footer li,nav,ul,div{
 	display: inline-block;
+}
+
+.container{
+	width: 1640px;
+	width: 100%;
+	margin: 0 auto;
+}
+section div{
+	margin-right: 50px;
+	text-align: center;
 }
