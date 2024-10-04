@@ -1,0 +1,31 @@
+header a{
+	color: #707070;
+	text-decoration: none;
+}
+
+
+.bg-red{
+	background-color: #2E2E2E;
+}
+
+.logo{
+	width: 122px;
+	height: 95.04px;
+}
+
+ul{
+	list-style: none;
+
+}
+
+header ul a{
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 27px;
+}
+
+header img{
+	width: 1640px;
+	height: 613px;
+	max-width: 100%;
+}
