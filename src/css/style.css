@@ -25,7 +25,7 @@ header ul a{
 }
 
 header img{
-	width: 1640px;
+	max-width: 1640px;
 	height: 613px;
 	max-width: 100%;
 }h1{
@@ -36,8 +36,8 @@ header img{
 }
 
 section img{
-	width: 483px;
-	height: 282px;
+	width: 300px;
+	height: 150px;
 	max-width: 100%;
 }
 
@@ -50,7 +50,7 @@ h3{
 
 p{
 	color: #707070;
-	font-size: 18px;
+	font-size: 14px;
 	letter-spacing: 0px;
 	line-height: 24px;
 }
@@ -122,11 +122,22 @@ ol{
 }
 
 article{
-	border: 10px solid #000000;
-	margin-top: 100px;
-	margin-left: 10px;
-	margin-bottom: 100px;
-	margin-right: 10px;
-	padding: 50px;
+	border: 2px solid #000000;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	padding: 3px;
 	text-align: left;
+}
+
+header li,nav{
+	display: inline-block;
+}
+section article{
+	display: inline-block;
+}
+
+footer li,nav,ul,div{
+	display: inline-block;
 }
